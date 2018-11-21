@@ -2,6 +2,9 @@ Kheer
 Pasta
 Khichadi
 
+beans
+pizza
+
 
 
 Thank you
