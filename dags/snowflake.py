@@ -1,0 +1,2 @@
+tenantID : ${tenantID}
+subscriberID : ${subscriberID}
